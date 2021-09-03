@@ -1,0 +1,19 @@
+package s059;
+
+import java.util.List;
+
+public class ForCondition3 {
+	public static void main(String[] args) {
+		List<Integer> ilist = new ArrayList<>();
+		int s = 0;
+		for (int i = 1; i < 100; i++) {
+			ilist.add(i);
+		}
+	// �ʱⰪ 0
+		s=ilist.stream().reduce(0, Integer::sum);
+		
+	
+	}
+	
+	
+}

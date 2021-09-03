@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;s042&apos; to &apos;s044&apos;&#x0D;&#x0A;- Original project: &apos;JAVA200&apos;&#x0D;&#x0A;- Original element: &apos;JAVA200/src/s042&apos;&#x0D;&#x0A;- Renamed element: &apos;JAVA200/src/s044&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;s042&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;s042" name="s044" qualified="false" references="true" stamp="1625041332771" textual="false" version="1.0"/>
+</session>

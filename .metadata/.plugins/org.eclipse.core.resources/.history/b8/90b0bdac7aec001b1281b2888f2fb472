@@ -1,0 +1,12 @@
+package s061;
+
+public class BitShifting {
+	public static final int BITMASK = 1;
+	public String makeBit(int value) {
+		//char 배열을 string으로 만들기 위해
+		char[] val
+	}
+		
+	
+	
+}
