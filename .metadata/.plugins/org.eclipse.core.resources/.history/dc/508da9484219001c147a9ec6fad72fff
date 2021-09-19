@@ -1,0 +1,10 @@
+package s065;
+
+public class UsingClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

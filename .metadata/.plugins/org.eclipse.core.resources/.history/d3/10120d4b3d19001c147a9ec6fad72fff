@@ -1,0 +1,13 @@
+package s064;
+
+public class UsingObject {
+	public static void main(String[] args) {
+		Object obj1 = new Object();
+		Object obj2 = new Object();
+		
+		System.out.println(obj1.hashCode());
+		System.out.println(Integer.toHexString(obj1.hashCode())); //16Áø¼ö
+		
+		
+	}
+}

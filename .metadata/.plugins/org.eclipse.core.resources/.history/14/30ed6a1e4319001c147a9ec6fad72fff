@@ -1,0 +1,12 @@
+package s065;
+//class를 이용하여 클래스에 선언된 메서드와 생성자를 확인해보자.
+//class에는 모든 생성자와 모든 메서드를 반환하는 메서드가 있다.
+
+
+public class UsingClass {
+
+	public static void main(String[] args) {
+		Object obj1 = new Object();
+	}
+
+}
